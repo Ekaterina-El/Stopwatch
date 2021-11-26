@@ -4,6 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/JavaApps/Stopwatch/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/JavaApps/Stopwatch/app/src/main/res/layout/fragment_alarm_clock.xml" value="0.24010416666666667" />
+        <entry key="..\:/JavaApps/Stopwatch/app/src/main/res/layout/fragment_stopwatch.xml" value="0.25416666666666665" />
+        <entry key="..\:/JavaApps/Stopwatch/app/src/main/res/layout/fragment_timer.xml" value="0.25416666666666665" />
+        <entry key="..\:/JavaApps/Stopwatch/app/src/main/res/menu-v26/bottom_menu.xml" value="0.13020833333333334" />
+        <entry key="..\:/JavaApps/Stopwatch/app/src/main/res/menu/bottom_menu.xml" value="0.13020833333333334" />
       </map>
     </option>
   </component>

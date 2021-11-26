@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="bg">#333</color>
     <color name="btn_bg">#7AAF4C</color>
+    <color name="icon_tint_color">#D1D1D1</color>
+    <color name="bg_dark">#3D3D3D</color>
 </resources>

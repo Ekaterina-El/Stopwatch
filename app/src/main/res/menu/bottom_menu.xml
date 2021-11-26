@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:iconTint="@color/icon_tint_color"
+        android:icon="@drawable/ic_alarm"
+        android:title="@string/alarm_clock"
+        android:id="@+id/menu_alarm_clock"
+        tools:targetApi="o" />
+
+    <item
+        android:iconTint="@color/icon_tint_color"
+        android:icon="@drawable/ic_timer"
+        android:title="@string/timer"
+        android:id="@+id/menu_timer"
+        tools:targetApi="o" />
+
+    <item
+        android:iconTint="@color/icon_tint_color"
+        android:icon="@drawable/ic_stopwatch"
+        android:title="@string/stopwatch"
+        android:id="@+id/menu_stopwatch"
+        tools:targetApi="o" />
+</menu>

@@ -3,4 +3,7 @@
     <string name="start">Start</string>
     <string name="stop">Stop</string>
     <string name="pause">Pause</string>
+    <string name="alarm_clock">Alarm clock</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="timer">Timer</string>
 </resources>
